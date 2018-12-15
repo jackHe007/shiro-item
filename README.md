@@ -14,7 +14,7 @@ Apache Shiro 的首要目标是易于使用和理解。安全有时候是很复�
   启用单点登录（SSO）功能。
   为没有关联到登录的用户启用"Remember Me"服务
       
-![image text](https://github.com/jackHe007/repository/master/shiro-item/src/main/image/QQ图片20181215142137.png)
+![image text](https://github.com/jackHe007/shiro-item/blob/master/src/main/image/QQ%E5%9B%BE%E7%89%8720181215142137.png)
 
 ###2018年12月14号，开始重新学习apache shiro，以此项目记录学习shiro过程中产生的demo，旨在方便后期重温。  
 ###学习资料来源apache shiro官方资料         

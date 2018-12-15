@@ -13,11 +13,8 @@ Apache Shiro 的首要目标是易于使用和理解。安全有时候是很复�
   聚集一个或多个用户安全数据的数据源，并作为一个单一的复合用户“视图”。
   启用单点登录（SSO）功能。
   为没有关联到登录的用户启用"Remember Me"服务
-
-
-  shiro-item/src/main/image/QQ图片20181215142137.png
       
-
+![image text](https://raw.github.com/jackHe007/repository/master/shiro-item/src/main/image/QQ图片20181215142137.png)
 
 ###2018年12月14号，开始重新学习apache shiro，以此项目记录学习shiro过程中产生的demo，旨在方便后期重温。  
 ###学习资料来源apache shiro官方资料         
